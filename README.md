@@ -22,12 +22,13 @@ Here are some ideas to get you started:
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+            <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
